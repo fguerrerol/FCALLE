@@ -1,0 +1,12 @@
+	(1)
+VARIABLES	Participación
+	
+Electores	1.97e-08
+	(1.62e-08)
+Constant	0.778***
+	(0.0148)
+	
+Observations	25
+R-squared	0.038
+Robust standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	
